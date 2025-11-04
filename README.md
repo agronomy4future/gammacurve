@@ -9,8 +9,8 @@ The goal of the gammacurve package is to provides a function to estimate the sha
     function (CDF) values.
 
 □ Code detailed: https://github.com/agronomy4future/r_code/blob/main/Estimate_Gamma_Distribution_Parameters_and_Compute_PDF_or_CDF.ipynb </br>
-□ Website: https://agronomy4future.com/archives/24792
-□ Contact: kimjk@agronomy4future.com
+□ Website: https://agronomy4future.com/archives/24792 </br>
+□ Contact: kimjk@agronomy4future.com </br>
 
 ## Installation
 You can install gammacurve() like so:
