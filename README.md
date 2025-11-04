@@ -31,10 +31,10 @@ github="https://raw.githubusercontent.com/agronomy4future/raw_data_practice/refs
 df=data.frame(read_csv(url(github),show_col_types = FALSE))
 
 print(head(df,3))
-       Season Nitrogen Block   weight
-1 2020_Season       N1     I 111.8380
-2 2020_Season       N1     I   9.7788
-3 2020_Season       N1     I  57.3240
+     Season  Nitrogen  Block  weight
+2020_Season        N1      I  111.8380
+2020_Season        N1      I  9.7788
+2020_Season        N1      I  57.3240
 
 # Example 1: Estimate Gamma parameters and compute PDF without grouping
 output= gammacurve(df, variable="weight", func=1) #func=1, PDF / func=2, CDF
