@@ -8,7 +8,7 @@ The goal of the gammacurve package is to provides a function to estimate the sha
     The function also computes the corresponding probability density function (PDF) and cumulative distribution 
     function (CDF) values.
 
-□ Code detailed: https://github.com/agronomy4future/r_code/blob/main/Estimate_Gamma_Distribution_Parameters_and_Compute_PDF_or_CDF.ipynb
+□ Code detailed: https://github.com/agronomy4future/r_code/blob/main/Estimate_Gamma_Distribution_Parameters_and_Compute_PDF_or_CDF.ipynb </br>
 □ Website: https://agronomy4future.com/archives/24792
 □ Contact: kimjk@agronomy4future.com
 
