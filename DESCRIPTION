@@ -1,0 +1,13 @@
+Package: gammacurve
+Title: Estimate Gamma Distribution Parameters and Compute PDF and CDF
+Version: 0.0.0.9000
+Authors@R: 
+  person("JK", "Kim", email = "kimjk@agronomy4future.com", role = c("aut", "cre"))
+Description: Provides a function to estimate the shape (alpha) and scale (theta) 
+    parameters of a Gamma distribution from observed data using the method of 
+    moments. The function also computes the corresponding probability density 
+    function (PDF) and cumulative distribution function (CDF) values.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
