@@ -41,9 +41,9 @@ output= gammacurve(df, variable="weight", func=1) #func=1, PDF / func=2, CDF
 
 print(head(output,3))
 weight  Season       Nitrogen  Block  alpha_hat  theta_hat  PDF
-0       NA           NA        NA     1.24       48.5 0     
-0       2021_Season  N0        I      1.24       48.5 0     
-2.14    2020_Season  N0        IV     1.24       48.5       0.0102
+0       NA           NA        NA     1.24       48.5       0     
+0       2021 Season  N0        I      1.24       48.5       0     
+2.14    2020 Season  N0        IV     1.24       48.5       0.0102
 .
 .
 .
